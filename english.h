@@ -18,6 +18,7 @@
 #define Point               .
 #define Greater_Than        >
 #define Less_Than           <
+#define Equals              =
 #define Greater_Than_Or_Equal_To       =>
 #define Less_Than_Or_Equal_To          =<
 #define Do                  do
